@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#quest-intro {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+#clue-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#clue-message {
+    font-size: 18px;
+    color: #333;
+}
